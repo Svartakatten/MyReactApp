@@ -1,0 +1,46 @@
+{
+    "Welcome": {
+        "title": "Welcome to My Website!",
+        "content": "I'm Erik Berglund, a passionate programmer dedicated to delivering high-quality solutions. I am currently a college student at Edugrade, pursuing new knowledge and a better degree."
+    },
+    "Education": [
+        {
+            "Id": "0",
+            "info": "Student",
+            "School": "Edugrade",
+            "Status": "Currently undergoing a college of applied sciences"
+        }
+    ],
+    "Skills": [
+        {
+            "Id": "0",
+            "Skill": "Web Development",
+            "SkillLevel": "Intermediet"
+        },
+        {
+            "Id": "1",
+            "Skill": "Python",
+            "SkillLevel": "Intermediet"
+        },
+        {
+            "Id": "2",
+            "Skill": "Java",
+            "SkillLevel": "Intermediet"
+        },
+        {
+            "Id": "3",
+            "Skill": "C++",
+            "SkillLevel": "Intermediet"
+        },
+        {
+            "Id": "4",
+            "Skill": "C#",
+            "SkillLevel": "Intermediet"
+        },
+        {
+            "Id": "5",
+            "Skill": "PHP",
+            "SkillLevel": "Intermediet"
+        }
+    ]
+}
